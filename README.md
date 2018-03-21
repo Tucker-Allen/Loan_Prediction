@@ -4,5 +4,5 @@ Because this challenge was presented as a 'speed-challenge', the documentation w
 
 - Collaborators:
   - Tucker Allen (https://github.com/Tucker-Allen)
-  - Charles Caspar ()
+  - Charles Caspar (https://github.com/ccaspar)
   - Andrew Carl (https://github.com/Andrew-Carl)
